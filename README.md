@@ -20,7 +20,7 @@ This project aims to automate the testing process by generating executable test 
 
 Detailed workflow diagram:
 
-[View Workflow Diagram](WorkFlow_Diagram.pdf)
+[View Workflow Diagram](WorkFlow Diagram.pdf)
 
 The workflow includes:
 
