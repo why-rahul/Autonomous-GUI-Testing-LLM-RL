@@ -1,0 +1,8 @@
+selenium
+torch
+numpy
+opencv-python
+requests
+beautifulsoup4
+matplotlib
+pillow
